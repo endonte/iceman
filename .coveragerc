@@ -1,0 +1,5 @@
+[run]
+include = iceman/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
